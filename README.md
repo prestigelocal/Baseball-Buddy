@@ -1,24 +1,6 @@
-## What will Baseball Buddy be?
+![alt tag](http://cdn.alleywatch.com/wp-content/uploads/2014/01/moneyball.jpg)
 
-A personal stat tracking machine with live stat tracking, customizable alerts and social integration
+* Leverage big data to provide in game analytics
+* Provide customizable alerts for players with custom conditions
+* Integrate with Fantasy team scoring to provide prediction data
 
-# Here are the phases
-
-* MVP
-  * Live player notification from Yahoo Fantasy sports league to e-mail alert
-
-
-* Phase 1
-  * Developed interface to select players and stats to track
-
-
-* Phase 2
-  * Platform for importing team data and notification settings
-
-
-* Phase 3
-  * Public release requirements
-
-
-* Phase 4
-  * Social integration
