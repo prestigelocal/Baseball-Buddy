@@ -1,4 +1,4 @@
-![alt tag](http://cdn.alleywatch.com/wp-content/uploads/2014/01/moneyball.jpg)
+![alt tag](http://akrayasolutions.com/wp-content/uploads/2014/05/MLB-Big-Data-302x240.jpg)
 
 * Leverage big data to provide in game analytics
 * Provide customizable alerts for players with custom conditions
