@@ -1,0 +1,13 @@
+#scores {
+
+  margin-top: 1em;
+  overflow-y: auto;
+  height: 270px;
+  box-shadow: 0px 30px 30px -30px rgba(0,0,0,0.1);
+
+  .scores-message {
+    padding: 1em 0;
+    text-align: center;
+  }
+
+}

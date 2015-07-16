@@ -1,0 +1,5 @@
+MLB game data is Copyright 2014 MLB Advanced Media, L.P. Use of the content acknowledges agreement to the terms posted below:
+
+The accounts, descriptions, data and presentation in the data file (the "Materials") are proprietary content of MLB Advanced Media, L.P ("MLBAM").
+Only individual, non-commercial, non-bulk use of the Materials is permitted and any other use of the Materials is prohibited without prior written authorization from MLBAM.
+Authorized users of the Materials are prohibited from using the Materials in any commercial manner other than as expressly authorized by MLBAM.

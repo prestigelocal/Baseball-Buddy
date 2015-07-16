@@ -1,0 +1,52 @@
+.game {
+
+  margin: 1em 0;
+  padding-bottom: 1em;
+  border-bottom: 1px #ccc solid;
+
+  &:first-child {
+    margin-top: 0;
+  }
+
+  &:last-child {
+    padding-bottom: 0;
+    border-bottom: none;
+  }
+
+  .team {
+    display: flex;
+    padding: 3px 0;
+
+    &:first-child {
+      border-bottom: 1px #ccc dashed;
+    }
+
+    &.winner {
+      font-weight: bold;
+    }
+
+    .team-name {
+      width: 80%;
+
+      .team-name--record {
+        float: right;
+        margin-right: 4px;
+        font-size: 0.7em;
+        color: #aaa;
+      }
+    }
+    .team-score {
+      width: 20%;
+      border-left: 1px #ccc dashed;
+      text-align: center;
+    }
+  }
+
+  .game-status {
+    font-size: 10px;
+    text-transform: uppercase;
+    color: #bbb;
+    margin-top: 0.5em;
+  }
+
+}

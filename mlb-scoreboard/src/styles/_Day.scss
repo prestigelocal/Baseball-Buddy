@@ -1,0 +1,43 @@
+#day {
+
+  display: flex;
+
+  margin-top: 1em;
+  line-height: 1.5em;
+  width: 100%;
+
+  text-align: center;
+
+  button {
+    width: 25%;
+
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1em;
+
+    border: 1px #bbb solid;
+    border-bottom: 2px #aaa solid;
+    background-color: #eee;
+    box-shadow: 0 5px 15px -5px white inset;
+    border-radius: 3px;
+
+    outline: none;
+    cursor: pointer;
+
+    &:hover,
+    &:focus {
+      background-color: white;
+    }
+
+    &:active {
+      border-bottom-width: 1px;
+      transform: translate(0 1px);
+    }
+  }
+
+  span {
+    width: 50%;
+    font-weight: bold;
+  }
+
+}

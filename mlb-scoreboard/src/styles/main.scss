@@ -1,0 +1,30 @@
+/*
+  Project Variables
+ */
+
+$line-height: 1.2em;
+$font-size: 14px;
+$font-family: 'Open Sans', sans-serif;
+
+/*
+  Base styles
+ */
+
+body {
+  margin: 0.5em;
+  background-color: white;
+  color: #333;
+  font-family: $font-family;
+  font-size: $font-size;
+  line-height: $line-height;
+}
+
+/*
+  Partials
+ */
+
+@import 'Header';
+@import 'Scoreboard';
+@import 'Day';
+@import 'Scores';
+@import 'Game';
